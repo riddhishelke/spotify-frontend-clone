@@ -40,6 +40,11 @@ This clone replicates the UI of the official Spotify Web Player, including:
 - Sidebar and navbar structuring  
 - Designing consistent UI sections with CSS
 
+---  
+
+##  Screenshots
+
+![Spotify Clone UI](./spotity_screenshot.jpeg)
 
 
 ---
